@@ -2,7 +2,7 @@
 
 独立检索 Opinio Juris 公共 WordPress 站点。只访问 `opiniojuris.org`。
 
-仓库：<https://github.com/GDUFSICCSkills/OpinioJurisSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/OpinioJurisSearcher>（私有）。
 
 ## 环境
 
@@ -11,7 +11,7 @@ Python 3.10+，依赖 `requests`、`beautifulsoup4`、`pypdf`；无需登录。
 ## 安装与自检
 
 ```powershell
-git clone https://github.com/GDUFSICCSkills/OpinioJurisSearcher.git "$env:USERPROFILE\.codex\skills\OpinioJurisSearcher"
+git clone https://github.com/HuiwowICCSkills/OpinioJurisSearcher.git "$env:USERPROFILE\.codex\skills\OpinioJurisSearcher"
 python -m pip install -r "$env:USERPROFILE\.codex\skills\OpinioJurisSearcher\requirements.txt"
 & "$env:USERPROFILE\.codex\skills\OpinioJurisSearcher\run.ps1" doctor
 ```
