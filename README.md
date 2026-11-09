@@ -2,7 +2,7 @@
 
 独立检索 Opinio Juris 公共 WordPress 站点。只访问 `opiniojuris.org`。
 
-仓库：<https://github.com/HuiwowICCSkills/OpinioJurisSearcher>（私有）。
+仓库：<https://github.com/HuiwowICCSkills/OpinioJurisSearcher>（公开）。
 
 ## 环境
 
